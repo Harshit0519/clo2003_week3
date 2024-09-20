@@ -1,7 +1,5 @@
 # clo2003_week
 
-Learning About Linux
-
 Introduction:
 This document explains important things about Linux, including its history, popular versions (called distributions), and some basic commands.
 
